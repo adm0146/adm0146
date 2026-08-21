@@ -24,9 +24,11 @@ Ghidra · GDB · IDA · Linux · Git
 - **CompTIA Security+** — 2026
 - **OSCP** — in progress (exam September 2026)
 
+### Contact
+- **LinkedIn:** [andrew-mullins](https://www.linkedin.com/in/andrew-mullins-518529175)
+- **Email:** andymullins2019@gmail.com
+- Based in Alabama · US citizen
+
 ---
 
 *Reverse-engineering portfolio in progress: crackme analyses, firmware and binary writeups, and RE tooling landing through spring 2027.*
-
-<!-- Based in Alabama · US citizen -->
-<!-- Add when ready: LinkedIn URL, email, or personal site -->
