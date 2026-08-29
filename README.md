@@ -31,4 +31,4 @@ Ghidra · GDB · IDA · Linux · Git
 
 ---
 
-*Reverse-engineering portfolio in progress: crackme analyses, firmware and binary writeups, and RE tooling landing through spring 2027.*
+Current certification pathway --> Sec+ (done) --> OSCP (September 2026) --> CRTO (December 2026)
